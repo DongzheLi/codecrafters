@@ -1,3 +1,6 @@
 [submodule "codecrafters-grep-python"]
 	path = codecrafters-grep-python
 	url = https://git.codecrafters.io/47e68dd02651fe7c
+[submodule "codecrafters-claude-code-python"]
+	path = codecrafters-claude-code-python
+	url = https://git.codecrafters.io/271fd8f168f1b18a
